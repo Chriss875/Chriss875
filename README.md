@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chriss875
 - 👀 I’m obsessed with software
-- 💞️ I’m looking to collaborate on anyproject concerning data science, back-end
+- I’m looking to collaborate on anyproject concerning back-end
 - 📫 How to reach me .;; 0692882030
 
 <!---
